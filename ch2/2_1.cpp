@@ -2,9 +2,8 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
     cout << "Hello!" << endl;
-    cout << "Welcome to C++!" << endl;
+    cout << "Welcome to c++!" << endl;
     return 0;
 }

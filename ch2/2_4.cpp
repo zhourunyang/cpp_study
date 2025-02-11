@@ -4,9 +4,10 @@ using namespace std;
 
 int main() {
     int day;
+    cout << "Enter day number (0 ... 6): ";
     cin >> day;
 
-    switch(day){
+    switch(day) {
         case 0:
             cout << "Sunday" << endl;
             break;
