@@ -14,11 +14,15 @@ using namespace std;
 
 class Clock {
     public:
+        Clock(int newH, int newM, int newS);
         void setTime(int newH = 0, int newM = 0, int newS = 0);
         void showTime();
     private:
         int hour, minute, second;
 };
+
+//构造函数的实现:
+Clock::Clock(int newH, int newM, int newS):hour(newH), minute(newM), second(newS){}
 
 //clock类成员函数的具体实现:
 void Clock::setTime(int newH, int newM, int newS){
@@ -33,12 +37,8 @@ void Clock::showTime(){
 
 //主函数
 int main(){
-    Clock myClock;
-    cout << "First time set and output:" << endl;
-    myClock.setTime();  //设置时间为默认值
-    myClock.showTime();
-    cout << "Second time set and output:" << endl;
-    myClock.setTime(8,30,30);
-    myClock.showTime();
+    Clock c(0,0,0);
+    c.showTime();
+    c.setTime(8,30,30);
     return 0;
 }
