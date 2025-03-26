@@ -26,7 +26,7 @@ Complex operator -(const Complex &c1, const Complex &c2) {
 
 ostream& operator <<(ostream &out, const Complex &c) {
     out << c.real << " + " << c.imag << "i" << endl;
-    return cout;
+    return out;
 }
 
 int main() {
@@ -35,6 +35,6 @@ int main() {
     cout << c3;
     c3 = c1 + c2;
     cout << c3;
-  
+    cout << c1 << c2;
     return 0;
 }
