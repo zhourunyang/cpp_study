@@ -13,3 +13,4 @@ int main() {
     cout << a << " " << b << " " << c << endl;
     return 0;
 }
+//-5 -12 -7

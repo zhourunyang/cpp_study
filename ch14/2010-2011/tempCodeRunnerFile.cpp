@@ -39,9 +39,3 @@ int main() {
     print(c);
     return 0;
 }
-/*
-C
-B
-C
-A
-*/

@@ -30,3 +30,17 @@ int main() {
     fun(a2);
     return 0;
 }
+/*
+A constructor 10
+A copy constructor 10
+A constructor 5
+A copy constructor 5
+A copy constructor 5
+A destructor 5
+A copy constructor 5
+A destructor 5
+A destructor 5
+A destructor 10
+A destructor 10
+A destructor 5
+*/

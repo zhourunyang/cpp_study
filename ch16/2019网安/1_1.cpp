@@ -16,3 +16,4 @@ int main() {
     cout << endl;
     return 0;
 }
+//1 4 8 13 19 26 34 43 53 10 

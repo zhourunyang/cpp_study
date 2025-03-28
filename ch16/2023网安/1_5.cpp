@@ -43,3 +43,9 @@ int main(){
 
 	return 0;
 }
+/*
+runtime_error
+errorA
+errorB
+errorA
+*/

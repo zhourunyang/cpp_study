@@ -34,3 +34,8 @@ int main() {
 
     return 0;
 }
+/*
+x=1 y=2
+x=1 y=2
+x=2 y=3
+*/

@@ -27,3 +27,9 @@ int main() {
     Teacher t;
     return 0;
 }
+/*
+Student +
+Teacher +
+- Teacher
+- Student
+*/

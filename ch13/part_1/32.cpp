@@ -26,3 +26,9 @@ int main() {
         cout << "第" << i <<"行位置：" << col[i] << endl;
     return 0;
 }
+/*
+row(0) = 14
+row(1) = 15
+row(2) = 17
+绗?
+*/

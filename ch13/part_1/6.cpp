@@ -57,3 +57,13 @@ int main() {
     delete[] ptr;
     return 0;
 }
+/*
+Initial Constructor
+Initial Constructor
+Copy Constructor
+4,3,
+8,10,2,1,
+Destructor:
+Destructor:
+Destructor:
+*/

@@ -19,3 +19,4 @@ int main() {
     cout << k << " " << a << " " << b <<endl;
     return 0;
 }
+//3 3 2

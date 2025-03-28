@@ -35,17 +35,3 @@ int main() {
     delete p;
     return 0;
 }
-/*
-Obj 1 is constructed!
-Obj 3 is constructed!
-Obj 4 is constructed!
-Obj 3 is destructed!
-Obj 2 is constructed!
-Obj 3 is constructed!
-Obj 3 is destructed!
-Obj 5 is constructed!
-Obj 5 is destructed!
-Obj 2 is destructed!
-Obj 4 is destructed!
-Obj 1 is destructed!
-*/

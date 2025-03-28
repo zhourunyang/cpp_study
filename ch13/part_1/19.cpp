@@ -19,3 +19,9 @@ int main() {
     cout << v << endl;
     return 0;
 }
+/*
+A
+B
+5
+65
+*/

@@ -26,3 +26,7 @@ int main() {
     a.print();
     return 0;
 }
+/*
+1 2
+5 6
+*/

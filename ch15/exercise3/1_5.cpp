@@ -34,3 +34,9 @@ int main() {
     delete p;
     return 0;
 }
+/*
+B::start
+D::start
+this is a B class
+B::end
+*/

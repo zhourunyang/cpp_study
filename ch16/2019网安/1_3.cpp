@@ -18,3 +18,4 @@ int main() {
     func(str);
     return 0;
 }
+//4

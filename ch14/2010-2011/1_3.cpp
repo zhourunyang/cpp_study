@@ -45,3 +45,11 @@ int main() {
     ms(s2);
     return 0;
 }
+/*
+x=2,y=3
+in copy constructor
+in copy constructor
+x == y
+x != y
+x != y
+*/

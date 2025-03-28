@@ -52,3 +52,8 @@ int main() {
 
     return 0;
 }
+/*
+B fun1
+B fun2
+B fun3
+*/

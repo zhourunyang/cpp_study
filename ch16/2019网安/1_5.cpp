@@ -31,3 +31,7 @@ int main() {
     p->print();
     return 0;
 }
+/*
+B::print()
+D::print()
+*/

@@ -21,3 +21,8 @@ int main() {
     cout << string2 << endl;
     return 0;
 }
+/*
+i=5 true
+HappyNewYear
+NewYe
+*/

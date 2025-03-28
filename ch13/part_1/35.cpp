@@ -15,3 +15,4 @@ int main() {
     cout << i << " " << j << endl;
     return 0;
 }
+//2 1

@@ -39,3 +39,14 @@ int main() {
 
     return 0;
 }
+/*
+Structor       
+Structor       
+Copy structor  
+Structor       
+Destructor:8 4 
+Destructor:1 1 
+One = 8;Two = 4
+Destructor:8 4 
+Destructor:1 1 
+*/

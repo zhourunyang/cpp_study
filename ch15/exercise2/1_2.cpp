@@ -31,3 +31,9 @@ int main() {
 
     return 0;
 }
+/*
+Current Coordinate: 3 4
+Current Coordinate: 4 6
+Current Coordinate: 2 3.4
+Current Coordinate: 3.3 5.7
+*/

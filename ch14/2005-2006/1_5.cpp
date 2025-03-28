@@ -43,3 +43,11 @@ int main() {
     b.fc(p->fc(6));
     return 0;
 }
+/*
+Grass::thin
+Leaf::green
+Tree::lower
+Leaf f_age:18
+Leaf_num=6
+Leaf_num=0
+*/

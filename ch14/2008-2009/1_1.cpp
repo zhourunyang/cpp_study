@@ -12,3 +12,8 @@ int main() {
     cout << a << endl << b << endl;
     return 0;
 }
+/*
+10
+0
+7
+*/

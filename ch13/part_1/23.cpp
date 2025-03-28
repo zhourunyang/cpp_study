@@ -16,3 +16,7 @@ int main() {
     mys(s, t);
     cout << endl << t;
 }
+/*
+leveldoog
+9
+*/

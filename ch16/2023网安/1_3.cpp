@@ -37,3 +37,10 @@ int main(){
 	Test::print();
 	return 0;
 }
+/*
+T count: 1
+T count: 2
+T count: 8
+T count: 3
+T count: 2
+*/

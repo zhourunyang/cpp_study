@@ -51,3 +51,13 @@ int main() {
     A a;
     return 0;
 }
+/*
+B2:Constructor
+B3:Constructor
+B1:Constructor
+A:Constructor
+A:Destructor
+B1:Destructor
+B3:Destructor
+B2:Destructor
+*/

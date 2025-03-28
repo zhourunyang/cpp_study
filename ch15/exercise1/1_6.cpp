@@ -22,3 +22,4 @@ int main() {
         cout << *itor << " ";
     return 0;
 }
+//100 300 300 500 

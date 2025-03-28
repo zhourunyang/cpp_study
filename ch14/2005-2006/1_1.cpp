@@ -20,3 +20,8 @@ int main() {
         find(s + i, i);
     return 0;
 }
+/*
+NDO
+DOWS
+OWS-S
+*/

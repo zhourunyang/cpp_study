@@ -45,3 +45,9 @@ int main() {
 
     return 0;
 }
+/*
+Name: 鐜嬫槑
+Age: 19
+Num: 20090332
+Avg: 97.5
+ */

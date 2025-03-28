@@ -37,3 +37,14 @@ int main() {
 
     return 0;
 }
+/*
+cons
+cons
+copy cons
+cons
+des 50 75
+x=50,y=75
+des 45 65
+des 45 65
+des 50 75
+*/

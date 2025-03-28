@@ -15,3 +15,4 @@ int main() {
     }
     cout << a << " " << b << endl;
 }
+//10 6

@@ -38,3 +38,8 @@ int main() {
     p->f2();
     return 0;
 }
+/*
+CB::f1
+CB::f2
+CA::f2
+*/
